@@ -1,0 +1,1 @@
+&tip=The amount of 'Bombs' and 'Smart Bombs', along with the length of 'Snake Tunneling', are dependant on the size of the arena.  A red fuel-like gauge will appear on the Power Menu when they are activated.

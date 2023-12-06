@@ -1,0 +1,1 @@
+&myIPAddress=classic.quadradius.com&chatPort=3000&gamePort=3001&

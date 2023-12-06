@@ -1,0 +1,1 @@
+&tip=Don't worry if you get the message 'No Effect' after using a power. It is a security measure to prevent you from wasting powers that would otherwise have had no effect due to certain circumstances, such as out of range.

@@ -1,0 +1,1 @@
+&tip=Squadron pieces that have a colored tint to them have absorbed powers. These pieces should be considered more of a target, whether defending or attacking.

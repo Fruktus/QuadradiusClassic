@@ -1,0 +1,1 @@
+&tip=The gray, rolling, analog dials, next to each player's name, represents how many pieces each squadron has left. This is a great way to estimate who is winning.

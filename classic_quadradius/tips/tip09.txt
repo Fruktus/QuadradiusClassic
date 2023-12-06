@@ -1,0 +1,1 @@
+&tip=There is an alternate way to activate Powers. If you click on a Power listed in the menu above, all of the pieces that contain that specific Power will be highlighted. You can then activate that power by just clicking on the piece.

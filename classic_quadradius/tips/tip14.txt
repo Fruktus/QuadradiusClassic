@@ -1,0 +1,1 @@
+&tip=The pieces in your squadron can only move up, down, left, or right initially.  You can not move on an angle or more than one space at a time.

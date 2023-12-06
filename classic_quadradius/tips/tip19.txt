@@ -1,0 +1,1 @@
+&tip='Grow Quadradius' is only effective when used with range-style or duration-style powers. If you have 'Grow Quadradius' in your inventory or have already activated it, try to get more powers with that piece.

@@ -1,0 +1,1 @@
+&tip=If you feel your opponent is lining up for a Pilfer attack, try to activate your Powers on that piece. Powers that are already activated, even ones that cause QTorus modifications, can not be pilfered.

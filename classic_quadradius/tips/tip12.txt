@@ -1,0 +1,1 @@
+&tip=You can step up to a tile that is slightly higher (like a pair of steps), but any tiles that are higher are out of reach. Keep in mind, you can always jump off of an elevated tile to a lower one.

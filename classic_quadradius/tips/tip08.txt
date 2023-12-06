@@ -1,0 +1,1 @@
+&tip=If you use the same logon name from the same computer, your last settings and preferences will be loaded, such as the color of your squadron, or performance settings.

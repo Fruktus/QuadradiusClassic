@@ -1,0 +1,1 @@
+&tip=The red LED's above, next to Rounds, represents how many rounds until new Power Orbs will spawn.

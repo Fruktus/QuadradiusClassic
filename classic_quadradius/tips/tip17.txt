@@ -1,0 +1,1 @@
+&tip=You can use as many Powers in a round as you wish. Your turn is only over after you complete a move by dragging. However, keep in mind that MULTIPLY is also considered a move.

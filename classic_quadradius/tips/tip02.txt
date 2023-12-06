@@ -1,0 +1,1 @@
+&tip=The red LED's above, next to Amount, represent how many Power Orbs will be appearing in the arena during the next spawning phase.

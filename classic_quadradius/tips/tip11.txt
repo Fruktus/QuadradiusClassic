@@ -1,0 +1,1 @@
+&tip=The flashing, color-coded light at the top of the Power Menu shows whose turn it is, as does your cursor image.
